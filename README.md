@@ -4,7 +4,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Python_v3-gray)](https://github.com/ayush-thakur02)
 [![Stable Diffuison](https://img.shields.io/badge/File_Version-v1.0-blue)](https://github.com/ayush-thakur02)
-[![Stable Diffuison](https://img.shields.io/badge/Stable_Diffusion-XL_Base_1.0-blue)](https://github.com/ayush-thakur02)
+[![Stable Diffuison](https://img.shields.io/badge/Stable_Diffusion-XL_Inpaint_1.0-blue)](https://github.com/ayush-thakur02)
 
 </div>
 

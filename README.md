@@ -72,7 +72,7 @@ Below is an example of inpainting results achieved with Stable Diffusion XL Inpa
 
 *Input Image*
 
-![Output Image](samples/result.jpg)
+![Output Image](samples/results.jpg)
 
 *Output Image (Inpainting Result)*
 

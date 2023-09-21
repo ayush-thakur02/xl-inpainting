@@ -42,7 +42,7 @@ Before using Stable Diffusion XL Inpainting, you need to set up the required env
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/stable-diffusion-xl-inpainting.git
+   git clone https://github.com/ayush-thakur02/xl-inpainting.git
    cd xl-inpainting
    ```
 
